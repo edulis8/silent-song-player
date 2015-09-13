@@ -155,7 +155,7 @@ var counter = 0
 		counter--;
 		
 		if(counter<0){
-			counter = 3;
+			counter = 5;
 		}
 
 		if(shuffleToken === false){
