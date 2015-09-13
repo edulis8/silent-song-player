@@ -20,16 +20,21 @@ var song2 = new Song("2 Suzanne", "Leonard Cohen", "Songs of Leonard Cohen");
 var song3 = new Song("3 MGMT", "Kids", "Oracular Spectacular");
 var song4 = new Song("4 I Walk the Line", "Johnny Cash", "With His Hot and Blue Guitar");
 var song5 = new Song("5 Flutter", "Bonobo", "Dial 'M' for Monkey");
+var song6 = new Song("6 Loud Pipes", "Ratatat", "Classics")
 
 song1.addToPlaylist(playlist);
 song2.addToPlaylist(playlist);
 song3.addToPlaylist(playlist);
 song4.addToPlaylist(playlist);
+song5.addToPlaylist(playlist);
+song6.addToPlaylist(playlist);
 
 song1.addToPlaylist(playlist2);
 song2.addToPlaylist(playlist2);
 song3.addToPlaylist(playlist2);
 song4.addToPlaylist(playlist2);
+song5.addToPlaylist(playlist2);
+song6.addToPlaylist(playlist2);
 
 
 
