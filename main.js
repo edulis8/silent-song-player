@@ -19,6 +19,7 @@ var song1 = new Song("1 Roxanne", "The Police", "Outlandos d'Amour");
 var song2 = new Song("2 Suzanne", "Leonard Cohen", "Songs of Leonard Cohen");
 var song3 = new Song("3 MGMT", "Kids", "Oracular Spectacular");
 var song4 = new Song("4 I Walk the Line", "Johnny Cash", "With His Hot and Blue Guitar");
+var song5 = new Song("5 Flutter", "Bonobo", "Dial 'M' for Monkey");
 
 song1.addToPlaylist(playlist);
 song2.addToPlaylist(playlist);
